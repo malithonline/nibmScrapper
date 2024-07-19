@@ -2,6 +2,12 @@
 
 A user-friendly web application that allows NIBM students to check their exam results and calculate their GPA easily with just one tap! 🚀
 
+>  🚨  **Hey NIBM Web Team!**
+> 
+> We've built a handy app for students that's super gentle on your servers. We really admire your work and don't want to cause any trouble. Mind if we keep it running?
+> 
+> Thanks a bunch! 🙏
+
 ## ✨ Features
 
 - 🖱️ One-tap GPA check - get your results instantly!
@@ -19,9 +25,9 @@ A user-friendly web application that allows NIBM students to check their exam re
 - JavaScript
 - Telegram Bot API (for notifications)
 
-## 🌐 Live website
+## 🌐 Live Demo
 
-Visit the live application: [nibmgpacal.netlify.app](https://nibmgpacal.netlify.app)
+Visit the live application: [https://nibmgpacal.netlify.app](https://nibmgpacal.netlify.app)
 
 ## 🤖 Telegram Bot
 
