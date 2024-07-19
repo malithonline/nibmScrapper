@@ -19,9 +19,9 @@ A user-friendly web application that allows NIBM students to check their exam re
 - JavaScript
 - Telegram Bot API (for notifications)
 
-## 🌐 Live Demo
+## 🌐 Live website
 
-Visit the live application: [https://nibmgpacal.netlify.app](https://nibmgpacal.netlify.app)
+Visit the live application: [nibmgpacal.netlify.app](https://nibmgpacal.netlify.app)
 
 ## 🤖 Telegram Bot
 
