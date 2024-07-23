@@ -619,7 +619,7 @@
             loadingDiv.style.display = 'block';
 
             try {
-                const response = await fetch('https://corsproxy.malith.workers.dev/check-results', {
+                const response = await fetch('https://nibmgpacalx.malith.workers.dev/check-results', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ studentIndex })
@@ -711,7 +711,7 @@
             const messageDiv = document.getElementById('message');
 
             try {
-                const response = await fetch('https://corsproxy.malith.workers.dev/save-recaptcha', {
+                const response = await fetch('https://nibmgpacalx.malith.workers.dev/save-recaptcha', {
                     method: 'POST',
                     headers: { 'Content-Type': 'application/json' },
                     body: JSON.stringify({ response: token, studentIndex })
