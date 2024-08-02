@@ -1,4 +1,4 @@
-# 📊 NIBM Exam Results + GPA Checker
+# 📊 Onetap NIBM Exam Results + GPA Checker
 
 A user-friendly web application that allows NIBM students to check their exam results and calculate their GPA easily with just one tap! 🚀
 
