@@ -1,5 +1,7 @@
 # 📊 Onetap NIBM Exam Results + GPA Checker
 
+⭕️ Can't spill the backend beans (security first! 🔒), but trust me, it's doing the heavy lifting behind the scenes.
+
 A user-friendly web application that allows NIBM students to check their exam results and calculate their GPA easily with just one tap! 🚀
 
 >  🚨  **Hey NIBM Web Team!**
@@ -21,6 +23,10 @@ A user-friendly web application that allows NIBM students to check their exam re
 ## 🛠️ Technologies Used
 
 - HTML5
+- js for cloudfalre workers
+- python for reCAPTCHA automation
+- php
+- PostgreSQL
 - CSS3
 - JavaScript
 - Telegram Bot API (for notifications)
