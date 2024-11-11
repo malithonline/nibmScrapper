@@ -45,7 +45,7 @@ This repository contains only the frontend source code of the application. The b
 
 ## 📝 Usage
 
-1. Visit [https://nibmgpacal.netlify.app](https://nibmgpacal.netlify.app)
+1. Visit [https://nibmgpacal.netlify.app](https://nibeam.me)
 2. Enter your NIBM student index number
 3. Click "Check" to view your results instantly! 🎉
 4. Your GPA will be automatically calculated based on the results
