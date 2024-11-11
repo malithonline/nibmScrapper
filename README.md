@@ -33,7 +33,7 @@ A user-friendly web application that allows NIBM students to check their exam re
 
 ## 🌐 Live Demo
 
-Visit the live application: [https://nibmgpacal.netlify.app](https://nibmgpacal.netlify.app)
+Visit the live application: [https://nibeam.me](https://nibeam.me/)
 
 ## 🤖 Telegram Bot
 
